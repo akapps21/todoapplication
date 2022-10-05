@@ -1,0 +1,102 @@
+[
+    {
+        "merged": "C:\\Users\\Akshay\\AndroidStudioProjects\\todoapplication\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Akshay\\AndroidStudioProjects\\todoapplication\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Akshay\\AndroidStudioProjects\\todoapplication\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Akshay\\AndroidStudioProjects\\todoapplication\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Akshay\\AndroidStudioProjects\\todoapplication\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Akshay\\AndroidStudioProjects\\todoapplication\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Akshay\\AndroidStudioProjects\\todoapplication\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Akshay\\AndroidStudioProjects\\todoapplication\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Akshay\\AndroidStudioProjects\\todoapplication\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Akshay\\AndroidStudioProjects\\todoapplication\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Akshay\\AndroidStudioProjects\\todoapplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Akshay\\AndroidStudioProjects\\todoapplication\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Akshay\\AndroidStudioProjects\\todoapplication\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_splash_screen.xml.flat",
+        "source": "C:\\Users\\Akshay\\AndroidStudioProjects\\todoapplication\\app\\src\\main\\res\\layout\\activity_splash_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\Akshay\\AndroidStudioProjects\\todoapplication\\app\\build\\intermediates\\res\\merged\\debug\\layout_dailog_dairy.xml.flat",
+        "source": "C:\\Users\\Akshay\\AndroidStudioProjects\\todoapplication\\app\\src\\main\\res\\layout\\dailog_dairy.xml"
+    },
+    {
+        "merged": "C:\\Users\\Akshay\\AndroidStudioProjects\\todoapplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_btn_positive.xml.flat",
+        "source": "C:\\Users\\Akshay\\AndroidStudioProjects\\todoapplication\\app\\src\\main\\res\\drawable\\bg_btn_positive.xml"
+    },
+    {
+        "merged": "C:\\Users\\Akshay\\AndroidStudioProjects\\todoapplication\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Akshay\\AndroidStudioProjects\\todoapplication\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Akshay\\AndroidStudioProjects\\todoapplication\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Akshay\\AndroidStudioProjects\\todoapplication\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Akshay\\AndroidStudioProjects\\todoapplication\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Akshay\\AndroidStudioProjects\\todoapplication\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Akshay\\AndroidStudioProjects\\todoapplication\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Akshay\\AndroidStudioProjects\\todoapplication\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Akshay\\AndroidStudioProjects\\todoapplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_notes.xml.flat",
+        "source": "C:\\Users\\Akshay\\AndroidStudioProjects\\todoapplication\\app\\src\\main\\res\\drawable\\ic_notes.xml"
+    },
+    {
+        "merged": "C:\\Users\\Akshay\\AndroidStudioProjects\\todoapplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable_notes.png.flat",
+        "source": "C:\\Users\\Akshay\\AndroidStudioProjects\\todoapplication\\app\\src\\main\\res\\drawable\\notes.png"
+    },
+    {
+        "merged": "C:\\Users\\Akshay\\AndroidStudioProjects\\todoapplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Akshay\\AndroidStudioProjects\\todoapplication\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Akshay\\AndroidStudioProjects\\todoapplication\\app\\build\\intermediates\\res\\merged\\debug\\layout_user_notes_item_list.xml.flat",
+        "source": "C:\\Users\\Akshay\\AndroidStudioProjects\\todoapplication\\app\\src\\main\\res\\layout\\user_notes_item_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Akshay\\AndroidStudioProjects\\todoapplication\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Akshay\\AndroidStudioProjects\\todoapplication\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Akshay\\AndroidStudioProjects\\todoapplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable_notes_border.xml.flat",
+        "source": "C:\\Users\\Akshay\\AndroidStudioProjects\\todoapplication\\app\\src\\main\\res\\drawable\\notes_border.xml"
+    },
+    {
+        "merged": "C:\\Users\\Akshay\\AndroidStudioProjects\\todoapplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_delete.xml.flat",
+        "source": "C:\\Users\\Akshay\\AndroidStudioProjects\\todoapplication\\app\\src\\main\\res\\drawable\\ic_delete.xml"
+    },
+    {
+        "merged": "C:\\Users\\Akshay\\AndroidStudioProjects\\todoapplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_plus.xml.flat",
+        "source": "C:\\Users\\Akshay\\AndroidStudioProjects\\todoapplication\\app\\src\\main\\res\\drawable\\ic_plus.xml"
+    },
+    {
+        "merged": "C:\\Users\\Akshay\\AndroidStudioProjects\\todoapplication\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Akshay\\AndroidStudioProjects\\todoapplication\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Akshay\\AndroidStudioProjects\\todoapplication\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Akshay\\AndroidStudioProjects\\todoapplication\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Akshay\\AndroidStudioProjects\\todoapplication\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Akshay\\AndroidStudioProjects\\todoapplication\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Akshay\\AndroidStudioProjects\\todoapplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_update.xml.flat",
+        "source": "C:\\Users\\Akshay\\AndroidStudioProjects\\todoapplication\\app\\src\\main\\res\\drawable\\ic_update.xml"
+    }
+]
