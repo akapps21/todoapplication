@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">TodoApplication</string>
+    <string name="notes">NOTES</string>
+    <string name="no_notes_found_yet">No Notes Found Yet</string>
+    <string name="notes_entry">Notes Entry</string>
+    <string name="title">Title</string>
+    <string name="ok_done">OK</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="enter_description">Enter Description</string>
+    <string name="description">Description</string>
+    <string name="enter_title">Enter Title</string>
+    <string name="enter_all_fields">Enter All Fields</string>
+    <string name="update_notes">Update Notes</string>
+</resources>
