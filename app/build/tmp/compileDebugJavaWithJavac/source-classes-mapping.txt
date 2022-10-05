@@ -1,0 +1,32 @@
+com/akapps/todoapp/database/NotesRecordDao.java
+ com.akapps.todoapp.database.NotesRecordDao
+com/akapps/todoapp/database/Notes.java
+ com.akapps.todoapp.database.Notes
+com/akapps/todoapp/SplashScreenActivity.java
+ com.akapps.todoapp.SplashScreenActivity
+ com.akapps.todoapp.SplashScreenActivity$1
+com/akapps/todoapp/databinding/ActivitySplashScreenBinding.java
+ com.akapps.todoapp.databinding.ActivitySplashScreenBinding
+com/akapps/todoapp/MyApplication.java
+ com.akapps.todoapp.MyApplication
+com/akapps/todoapp/databinding/DailogDairyBinding.java
+ com.akapps.todoapp.databinding.DailogDairyBinding
+com/akapps/todoapp/database/AppDatabase.java
+ com.akapps.todoapp.database.AppDatabase
+com/akapps/todoapp/MainActivity.java
+ com.akapps.todoapp.MainActivity
+ com.akapps.todoapp.MainActivity$1
+com/akapps/todoapp/databinding/ActivityMainBinding.java
+ com.akapps.todoapp.databinding.ActivityMainBinding
+com/akapps/todoapp/databinding/UserNotesItemListBinding.java
+ com.akapps.todoapp.databinding.UserNotesItemListBinding
+com/akapps/todoapp/adapter/NotesAdapter.java
+ com.akapps.todoapp.adapter.NotesAdapter
+ com.akapps.todoapp.adapter.NotesAdapter$1
+ com.akapps.todoapp.adapter.NotesAdapter$ContactHolder
+com/akapps/todoapp/BuildConfig.java
+ com.akapps.todoapp.BuildConfig
+com/akapps/todoapp/database/AppDataBaseRepo.java
+ com.akapps.todoapp.database.AppDataBaseRepo
+ com.akapps.todoapp.database.AppDataBaseRepo$1
+ com.akapps.todoapp.database.AppDataBaseRepo$2
